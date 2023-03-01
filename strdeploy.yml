@@ -1,0 +1,6 @@
+tenant: internal
+namespace: internal
+mode: branch
+image:
+  namespace: sh1-legacy
+  name: blockly
